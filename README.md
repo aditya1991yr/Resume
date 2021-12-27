@@ -1,16 +1,17 @@
 # Work Experience:
 
-Project 1:
-Name: Global Holiday Management (Tata Consultancy Services)
-Methodologies: C#, Entity Framework, LINQ, ASP.NET core web API, JavaScript, Typescript, Angular 11, HTML, CSS, Bootstrap
-Database: SQL server 2018
-Tool: Visual Studio 2019, Visual studio code, Postman
-Version Control Software: TFS 
-Project Management Software: TFS
-Team Size: One  
-Responsibility: Coding and testing.
+Project 1:<br />
+Name: Global Holiday Management (Tata Consultancy Services)<br />
+Methodologies: C#, Entity Framework, LINQ, ASP.NET core web API, JavaScript, Typescript, Angular 11, HTML, CSS, Bootstrap<br />
+Database: SQL server 2018<br />
+Tool: Visual Studio 2019, Visual studio code, Postman<br />
+Version Control Software: TFS <br />
+Project Management Software: TFS<br />
+Team Size: One  <br />
+Responsibility: Coding and testing.<br />
 Description: Global Holiday Management is a portal where user can created one or multiple data of holiday for specific year by filling few valid and required data. Once the record added with create screen all record will be visible on holiday management list page with all columns having filters and grid will have pagination as well. This gird works with or without input parameters. Once the record is listed on list page user can select this record and can perform update operation on it. Only authorized user are allowed to access this holiday management tool, which is done with the help of JWT token-based authentication.
-
+<br />
+<br />
 Project 2:
 Name: ICS Reporting Portal (Tata Consultancy Services)
 Methodologies: C#, Entity Framework, LINQ, ASP.NET core web API, JavaScript, Typescript, Angular 11, HTML, CSS, Bootstrap
